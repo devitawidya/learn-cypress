@@ -1,0 +1,40 @@
+{
+    "option": [
+        {
+            "facility": "Tokyo CURA Healthcare Center",
+            "option": "Medicare"
+        },
+        {
+            "facility": "Tokyo CURA Healthcare Center",
+            "option": "Medicaid"
+        },
+        {
+            "facility": "Tokyo CURA Healthcare Center",
+            "option": "None"
+        },
+        {
+            "facility": "Hongkong CURA Healthcare Center",
+            "option": "Medicare"
+        },
+        {
+            "facility": "Hongkong CURA Healthcare Center",
+            "option": "Medicaid"
+        },
+        {
+            "facility": "Hongkong CURA Healthcare Center",
+            "option": "None"
+        },
+        {
+            "facility": "Seoul CURA Healthcare Center",
+            "option": "Medicare"
+        },
+        {
+            "facility": "Seoul CURA Healthcare Center",
+            "option": "Medicaid"
+        },
+        {
+            "facility": "Seoul CURA Healthcare Center",
+            "option": "None"
+        }
+    ]
+}

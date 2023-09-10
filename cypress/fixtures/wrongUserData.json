@@ -1,0 +1,20 @@
+{
+    "invalidData": [
+        {
+            "username": "john doe",
+            "password": "thisisnotapassword"
+        },
+        {
+            "username": "invalid_user",
+            "password": "ThisIsNotAPassword"
+        },
+        {
+            "username": "John Doe",
+            "password": "invalid_password"
+        },
+        {
+            "username": "invalid_user",
+            "password": "invalid_password"
+        }
+    ]
+}
