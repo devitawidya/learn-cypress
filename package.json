@@ -1,0 +1,12 @@
+{
+  "name": "learncypress",
+  "version": "1.0.0",
+  "description": "web testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "webtest": "npx cypress run --browser chrome --spec 'cypress/e2e/*'",
+    "generateReport": "npx cypress run --browser chrome --spec 'cypress/e2e/*' --reporter junit --reporter-options 'mochaFile=reports/TEST-[hash].xml'"
+  },
+  "author": "devita",
+  "license": "ISC"
+}
